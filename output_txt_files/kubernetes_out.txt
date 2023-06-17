@@ -1,0 +1,13 @@
+NAME                        READY   STATUS    RESTARTS   AGE
+microservice-project4-api   1/1     Running   0          28s
+Forwarding from 127.0.0.1:8080 -> 80
+Handling connection for 8080
+
+Port: 8080
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   260  100    48  100   212   1019   4500 --:--:-- --:--:-- --:--:--  5416{
+  "prediction": [
+    20.35373177134412
+  ]
+}
