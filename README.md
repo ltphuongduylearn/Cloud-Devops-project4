@@ -1,4 +1,4 @@
-[![Circle-ci-status](https://circleci.com/gh/ltphuongduy/Cloud-Devops-project4.svg?style=svg)](https://app.circleci.com/pipelines/github/ltphuongduy/Cloud-Devops-project4)
+[![Circle-ci-status](https://circleci.com/gh/ltphuongduylearn/Cloud-Devops-project4.svg?style=svg)](https://app.circleci.com/pipelines/github/ltphuongduylearn/Cloud-Devops-project4)
 
 ## Project Overview
 

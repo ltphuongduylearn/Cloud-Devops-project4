@@ -6,13 +6,13 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath=ltphuongduy/project4-api
+dockerpath=ltphuongduylearn/project4-api
 
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
 
-docker login -u ltphuongduy -p dckr_pat_9WFiPlLzkz9aO1dcEKAh54LShUM
+docker login -u ltphuongduylearn -p dckr_pat_9WFiPlLzkz9aO1dcEKAh54LShUM
 
 docker tag project4-api $dockerpath:latest
 
